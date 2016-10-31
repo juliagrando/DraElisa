@@ -169,7 +169,7 @@ ul.nav.navbar-nav.navbar-right {
     margin: 0 auto;
 }
 .grid-details {
-    background:#84754e;
+    background:#8e4c4d;
     padding: 1em 1em;
 }
 .grid-details h3 {
@@ -287,7 +287,7 @@ span.glyphicon.glyphicon-leaf{
 	position: relative;
 	z-index: 1;
 	color:#fff;
-  	border:3px solid #84754e;
+  	border:3px solid #8e4c4d;
   	line-height: 4.5em;
   	font-size: 1em;
 }
@@ -309,7 +309,7 @@ span.glyphicon.glyphicon-leaf{
 }
 /* Effect 8 */
 .ser-icon .hi-icon {
-	background: #84754e;
+	background: #8e4c4d;
 	-webkit-transition: -webkit-transform ease-out 0.1s, background 0.2s;
 	-moz-transition: -moz-transform ease-out 0.1s, background 0.2s;
 	transition: transform ease-out 0.1s, background 0.2s;
@@ -487,7 +487,7 @@ span.gall:hover{
 }
 span.glyphicon.glyphicon-arrow-right {
     font-size: 1em;
-    color: #84754e;
+    color: #8e4c4d;
     padding: 0em 0.3em 0em 0em;
 }
 /*--advantages end here--*/
@@ -547,7 +547,7 @@ background:#000000;
     font-size: 1.2em;
     color: #FFF;
     padding: 0.5em 1.5em;
-    background:#84754e;
+    background:#8e4c4d;
     border: none;
     outline: none;
     width: 100%;
@@ -576,7 +576,7 @@ background:#000000;
 	background: url(../images/top_mover.png) no-repeat 0px 0px;
 }
 .footer {
-    background:#84754e;
+    background:#CCAC97;
     padding: 4em 0em;
 }
 .ftr-grid h4 {
