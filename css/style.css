@@ -27,8 +27,8 @@ a:hover {
 }
 /*-- top-nav --*/
 .header {  
-    padding-top: 1.5em;
-    padding-bottom: 1.5em;
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
     background-color: rgba(167, 60, 70, 1);
 } 
 .navbar-nav {
@@ -124,13 +124,14 @@ ul.nav.navbar-nav.navbar-right {
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height: 150px;
+    max-height: 500px;
 }
 .banner-main {
     padding: 2em 1em;
     text-align: center;
     background: rgba(255, 255, 255, 0.6);
     width: 60%;
-    margin: 23.7em auto 0em;
+    margin: 10.7em auto 0em;
 }
 .banner-main h3 {
     font-size: 1.5em;
